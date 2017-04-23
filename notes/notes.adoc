@@ -1,0 +1,17 @@
+
+
+History of Java vs javascript
+netscape browser
+ie jscript vs. netscape javascript
+applet
+
+
+
+
+
+
+
+
+Standards
+java a priori
+javascript de facto

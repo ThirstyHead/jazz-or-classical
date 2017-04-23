@@ -121,43 +121,6 @@
 
     </style>
 
-    <!-- Live Code Demo ("tinker") -->
-    <style type="text/css">
-        textarea {
-          width: 75%;
-          height: 45vh;
-          font-size: 1rem;
-        }
-        .output iframe {
-          border: solid 1px white;
-          width: 75%;
-          height: 45vh;
-          font-size: 1rem;
-        }
-
-        .outputFrame {
-          font-size: 1rem;
-        }
-      </style>
-
-      <script>
-        function tinkerInit() {
-          //add keyup listeners to textareas
-          var html = document.querySelector("#html")
-          html.addEventListener("keyup", keystrokeListener, false)
-        }
-        function keystrokeListener(){
-          if ( this.getAttribute('id') === 'html') {
-            var iframe = document.querySelector("#outputFrame");
-            var doc = iframe.contentWindow.document;
-            doc.body.innerHTML = this.value
-          }
-        }
-
-        window.addEventListener('load', tinkerInit);
-      </script>
-    <!-- Live Code Demo ("tinker") -->
-
 
 
   </head>
@@ -181,6 +144,84 @@
              alt=""
              class="full-height">
       </li>
+
+      <li class="bg-white">
+        <div class="side-by-side">
+          <img src="slides/bit/img/bit-wiki.png"
+               alt=""
+               class="full-height">
+        </div>
+        <div class="side-by-side">
+          <img src="slides/bit/img/bulb.jpg"
+               alt=""
+               class="full-height">
+        </div>
+      </li>
+
+      <li class="bg-white">
+        <img src="slides/dimmer/img/dimmer.jpg"
+             alt=""
+             class="full-height">
+      </li>
+
+
+
+      <li class="bg-white">
+        <img src="slides/dichotomy/img/dichotomy-wiki.png"
+             alt=""
+             class="full-height">
+      </li>
+
+      <li class="bg-white">
+        <img src="slides/suck-rock/img/suck-rock.png"
+             alt=""
+             class="full-height">
+      </li>
+
+
+      <li class="bg-white">
+        <img src="slides/veg-nonveg/img/veg-nonveg-icon.png"
+             alt=""
+             class="full-width">
+      </li>
+
+      <li>
+        <pre><code>
+class Venkat extends Vegetarian{}
+
+try {
+  Dinner meal = VEG || NON_VEG;
+} catch(NonVegException nve) {
+  // todo
+}
+        </code></pre>
+
+        <pre><code>
+class Scott implements Vegetarianable{}
+
+var meal = VEG &amp;&amp; NON_VEG;
+        </code></pre>
+      </li>
+
+      <li>
+        <h2>This <span class="highlight">is</span> a dichotomy.</h2>
+        <h2><span class="highlight">Is</span> this a dichotomy?</h2>
+      </li>
+
+      <li>
+        <pre><code>
+class Scott extends Programmer
+            implements Java, JavaScript,
+                       Groovy, SQL...
+        </code></pre>
+      </li>
+
+      <li>
+        &nbsp;
+      </li>
+
+
+
 
 
 
