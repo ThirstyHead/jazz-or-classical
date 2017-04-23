@@ -21,3 +21,21 @@ http://economicstudents.com/wp-content/uploads/2012/10/coke-versus-pepsi.jpg
 
 veg non veg
 https://openclipart.org/image/2400px/svg_to_png/127159/veg-nonveg-icon.png
+
+jazz sax
+https://upload.wikimedia.org/wikipedia/commons/d/d8/19%C2%B0_International_Jazz_Festival_of_Punta_del_Este_-_150111-2052-jikatu_%2816077813707%29.jpg
+
+classical violins
+https://static.pexels.com/photos/111253/pexels-photo-111253.jpeg
+
+classical wiki
+https://en.wikipedia.org/wiki/Classical_music
+
+ieee programming survey
+http://spectrum.ieee.org/computing/software/the-2016-top-programming-languages
+
+npm packages per day
+http://thefullstack.xyz/javascript-developers/
+
+java history in netscape
+http://www.oracle.com/technetwork/java/javase/overview/javahistory-index-198355.html
