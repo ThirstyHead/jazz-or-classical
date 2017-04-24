@@ -1,0 +1,68 @@
+
+classical === discipline
+jazz      === flexibility
+
+
+== language paradigm
+java -> object-oriented
+javascript -> functional
+
+
+== compiled vs interpreted
+
+
+== static vs dynamic
+improvisation
+
+
+
+
+
+== WORA
+
+
+
+
+== Popularity
+
+
+
+
+== age === respectability
+
+History of Java vs javascript
+netscape browser
+ie jscript vs. netscape javascript
+applet
+
+cs degree vs democratic
+
+photo of james gosling
+photo of bredan eich
+
+
+
+
+
+
+
+
+== language heritage
+java -> c
+javascript -> lisp
+
+
+
+
+
+
+
+
+
+
+
+
+
+Standards
+java a priori
+javascript de facto

@@ -1,0 +1,22 @@
+{
+  "name": "jazz-or-classical",
+  "description": "PRESENTATION: Do You Prefer Jazz or Classical?",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ThirstyHead/jazz-or-classical",
+  "authors": [
+    "Scott Davis <sdavis@thoughtworks.com>"
+  ],
+  "main": "index.html",
+  "license": "CC-BY-4.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "talk-o-vision": "thirstyhead/talk-o-vision#^0.2.1"
+  }
+}
