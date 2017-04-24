@@ -1,4 +1,6 @@
 
+classical === discipline
+jazz      === flexibility
 
 
 == language paradigm
